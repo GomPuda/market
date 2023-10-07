@@ -39,9 +39,12 @@ footer {
   justify-content: center;
   align-items: center;
   font-size: 10px;
+  text-decoration: none;
 }
 
 .footer-icons_des {
-  transform: scale(0.5);
+  transform: scale(0.9);
   font-weight: bold;
+  text-decoration: none;
+  font-size: 5px;
 }
